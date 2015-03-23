@@ -13,4 +13,4 @@ The program RunningMedian.java calculates the running median for each line of te
 
 #Script File
 
-To run the programs use the shell script file. Firstofall, download the folder. Using terminal, open the downloaded folder. Once you are inside the folder 'CodingChallenge' in terminal, run the shell script file by typing in the command 'sh run.sh'. The output files will be stored in 'wc_output' folder. After running the scrpit file, check to make sure the 'wc_output' folder now contains two text files, 'wc_result.txt' and 'med_result.txt'.
+To run the programs use the shell script file. Firstofall, download the folder. Using terminal, open the downloaded folder. Once you are inside the folder 'CodingChallenge' in terminal, run the shell script file by typing in the command 'sh run.sh'. The output files will be stored in 'wc_output' folder. After running the scrpit file, check to make sure that the 'wc_output' folder now contains two text files, 'wc_result.txt' and 'med_result.txt'.
